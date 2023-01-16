@@ -1,0 +1,7 @@
+I've learnt the following in my python journey.
+In python I can work with lists, dictionaries, tuples, and sets as data structures.
+In python I can use conditional statement and if statement.
+In python I can use user inputs and while loops.
+In python I can work with functions.
+In python I can work with classes
+and lastly i'm in file and exceptions.
